@@ -16,9 +16,6 @@ I'm passionate about building systems and solving problems with code.
 ![](https://nirzak-streak-stats.vercel.app/?user=AlexandreJustinRepia&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreJustinRepia&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AlexandreJustinRepia&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AlexandreJustinRepia&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
