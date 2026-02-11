@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on WEB Game<br>
+I'm currently working on my first WEB Game<br>
 
 I'm passionate about building systems and solving problems with code.  
 
